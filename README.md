@@ -23,7 +23,7 @@ file, which additionally includes the game selection logic and menu code too.
 
 Although most of the work has been done and dusted in this project, the only problem which still remains is the fact that the button to exit the pong menu only works intermittently.
 I speculate that this is due to how the "choosePressed()" variable is used in various other parts of my code too, including this one, which can collide with eachother and cause
-problems when the program is running. This though, I am not certain about, since I am still a beginenr to arduino and coding.
+problems when the program is running. This though, I am not certain about, since I am still a beginenr to arduino and coding. Additionally, the collision in the pong game is kinda weird, when the ball is too fast, it can sometimes clip through the paddles and make a player score a point.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
