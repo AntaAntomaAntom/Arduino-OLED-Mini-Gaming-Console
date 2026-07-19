@@ -67,3 +67,5 @@ Arduino
 16. Once connected, upload the code to it which is inside the Gaming_Console_OLED file
 
 17. BOOM! ur done.
+
+By the end of all of this, the layout of the project should look roughly like it does in the finalPic, and should playout like the finalTest file too.
