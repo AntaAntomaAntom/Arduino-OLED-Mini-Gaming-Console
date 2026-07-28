@@ -68,4 +68,4 @@ Arduino
 
 17. BOOM! ur done.
 
-By the end of all of this, the layout of the project should look roughly like it does in the finalPic, and should playout like the finalTest file too.
+By the end of all of this, the layout of the project should look roughly like it does in the finalPic, and should playout like the video which I have uploaded to my YouTube channel: https://www.youtube.com/watch?v=WRdonJKs50Y
