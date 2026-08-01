@@ -25,6 +25,8 @@ Although most of the work has been done and dusted in this project, the only pro
 I speculate that this is due to how the "choosePressed()" variable is used in various other parts of my code too, including this one, which can collide with eachother and cause
 problems when the program is running. This though, I am not certain about, since I am still a beginenr to arduino and coding. Additionally, the collision in the pong game is kinda weird, when the ball is too fast, it can sometimes clip through the paddles and make a player score a point.
 
+Please refer to the symbol and physical wiring schematics which I have uploaded to this repo. Note that I have used a smaller different sized OLED in the physical wiring diagram since I could not find a 1.3" version, however, the shown wiring will still work on any setup.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Here is how to setup the Physical components:
