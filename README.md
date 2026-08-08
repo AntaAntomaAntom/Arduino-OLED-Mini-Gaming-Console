@@ -38,42 +38,52 @@ Please refer to the symbol and physical wiring schematics which I have uploaded 
 Here is how to setup the Physical components:
 
 1. Connect the OLED display to the breadboard, around the centre
+<img width="893" height="374" alt="image" src="https://github.com/user-attachments/assets/d5499b16-f15d-40c2-9984-fa99a65de586" />
+
 
 2. Afterwards, connect the OLED to the Arduino via the breadboard, via jumper wires-
   VCC to a 5V pin
   GND to a GND pin
   SCL to SCL pin
   SDA to SDA pin
+<img width="1114" height="386" alt="image" src="https://github.com/user-attachments/assets/c3f03b62-a26e-4050-89ad-75104579b0be" />
+
 
 3. Connect the buzzer to the breadboard, position on the right of the OLED on the breadboard
 
 4. Via the breadboard and jumper wires, connect the positive side of the buzzer to pin 8 of the arduino, as well as the negative side of the buzzer to pin 9
+<img width="1103" height="419" alt="image" src="https://github.com/user-attachments/assets/1400b859-995f-449a-9e32-350612ce40cc" />
 
 5. For the UP push button: Position it on the top right of the breadboard
 
 6. After doing so, connect the UP push button via jumper wires and U-shaped wires (for neatness) to pin 2 of the arduino, and also connecting the negative side of the button to a GND
 Arduino
+<img width="1123" height="431" alt="image" src="https://github.com/user-attachments/assets/df913f37-7971-482e-b855-24a1ecf262dd" />
 
-7. For the DOWN push button: Position it on the bottom right of the breadboard, under UP
+8. For the DOWN push button: Position it on the bottom right of the breadboard, under UP
 
-8. After, connect the DOWN push button via jumper and u-shaped wires to pin 3 of the arduino, connecting the negative side to another Arduino GND too
+9. After, connect the DOWN push button via jumper and u-shaped wires to pin 3 of the arduino, connecting the negative side to another Arduino GND too
+<img width="1130" height="439" alt="image" src="https://github.com/user-attachments/assets/68e6891b-66f0-4f29-8e98-8c8c8aeb6135" />
 
-9. For the LEFT Push button: Poistion it on the left side of the arduino, but in the centre
+10. For the LEFT Push button: Poistion it on the left side of the arduino, but in the centre
 
-10. After, connect the LEFT Push Button to the arduino via jumper and u shaped wires, connecting positive to pin 4 and negative to pin 5
+11. After, connect the LEFT Push Button to the arduino via jumper and u shaped wires, connecting positive to pin 4 and negative to pin 5
+<img width="1132" height="452" alt="image" src="https://github.com/user-attachments/assets/a011ec18-ec9d-45fc-a4b3-6dbe2c0df20e" />
 
-11. For the RIGHT Push button, position it on the left side of the arduino, on the centre, but to the right of the left button, for a gaming-console-like layout
+12. For the RIGHT Push button, position it on the left side of the arduino, on the centre, but to the right of the left button, for a gaming-console-like layout
 
-12. After, connect the RIGHT push button to the arduino via jumper and u shaped wires, connecting the positive to pin 6 and negative to pin 7
+13. After, connect the RIGHT push button to the arduino via jumper and u shaped wires, connecting the positive to pin 6 and negative to pin 7
+<img width="1118" height="437" alt="image" src="https://github.com/user-attachments/assets/586edfe9-b3f7-4755-b8be-23d2c29c0245" />
 
-13. For the Exiting/Enter game button: Position it on the bottom left of the OLED screen
+14. For the Exiting/Enter game button: Position it on the bottom left of the OLED screen
 
-14. Connect that button to the arduino via jumper and u-shaped wires, so that the positive side is connected to pin 10, and the negative connects to pin 11
+15. Connect that button to the arduino via jumper and u-shaped wires, so that the positive side is connected to pin 10, and the negative connects to pin 11
+<img width="1112" height="446" alt="image" src="https://github.com/user-attachments/assets/12618ac8-c0e8-4b94-89dc-cf824535bbce" />
 
-15. Afterwards, get your Arduino cable and plug it into your device
+16. Afterwards, get your Arduino cable and plug it into your device
 
-16. Once connected, upload the code to it which is inside the Gaming_Console_OLED file
+17. Once connected, upload the code to it which is inside the Gaming_Console_OLED file
 
-17. BOOM! ur done.
+18. BOOM! ur done.
 
 By the end of all of this, the layout of the project should look roughly like it does in the finalPic, and should playout like the video which I have uploaded to my YouTube channel: https://www.youtube.com/watch?v=WRdonJKs50Y
