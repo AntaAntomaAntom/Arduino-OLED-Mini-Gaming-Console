@@ -11,12 +11,18 @@ Equipment used:
 -Passive Buzzer
 -Large Breadboard
 
+<img width="2016" height="1512" alt="image" src="https://github.com/user-attachments/assets/40b1472c-1f4a-42d7-8116-f10470127602" />
+
 Features of the project:
 -Snake Game
 -EEPROM score saving feautres (Snake)
 -Two/One player Pong
 -Menu Interfaces
 -Buzzer noises sounding on certain actions (press buttons, getting points, etc.)
+
+<img width="842" height="362" alt="image" src="https://github.com/user-attachments/assets/c0005074-f23b-49bd-ad18-b7047f6b3342" />
+<img width="859" height="347" alt="image" src="https://github.com/user-attachments/assets/d975af61-b493-47fd-9a9a-aa8141044eb8" />
+<img width="923" height="382" alt="image" src="https://github.com/user-attachments/assets/8d1b16eb-e789-4269-855a-2c3ad1ab1358" />
 
 The Pong_OLED and Snake_Game_OLED files are testing files which I have used to make each of the named games. In the end, i have combined the two together in the Gaming_Console_OLED
 file, which additionally includes the game selection logic and menu code too.
